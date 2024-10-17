@@ -50,7 +50,7 @@ A simple **command-line To-Do List application** written in Python to help manag
 
 ## **File Structure** 
 ```
-/todo-app
+/Personal To-Do List Application  
 ├── todo.py         # Main Python script
 ├── tasks.json      # JSON file to store tasks (auto-generated)
 └── README.md       # Documentation (this file)
